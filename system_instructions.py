@@ -13,5 +13,5 @@ Note that sometimes, the body text may be left blank.
 
 The output should look like:
 OP SUMMARY:
-Insert summary here...
+Insert summary here in 100 words or less...
 """
