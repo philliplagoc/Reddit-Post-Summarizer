@@ -1,5 +1,6 @@
 *.conda
 config.py
+playground.*
 .DS_Store
 .DS_Store?
 __pycache__
