@@ -1,5 +1,4 @@
 import re
-import anthropic
 
 # Extract the number of upvotes from a comment string.
 def extract_upvotes(comment):
